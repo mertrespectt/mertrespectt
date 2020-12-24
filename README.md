@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on NitrobixNetwork
 - 🌱 I’m currently learning everything 🤣
+Contact:
+  Discord: aka cherryst#3992
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Mert's Spotify Playing" width="350" />](https://open.spotify.com/user/Cherrythe1st)
