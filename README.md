@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on NitrobixNetwork
 - 🌱 I’m currently learning everything 🤣
-Contact:
+- Contact:
   Discord: aka cherryst#3992
 
 ### Spotify Playing 🎧
