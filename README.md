@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on NitrobixNetwork & valent.gg
    
 
-### Spotify Playing 🎧
-[<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Mert's Spotify Playing" width="350" />](https://open.spotify.com/user/Cherrythe1st)
 
 ### Connect with me:
 
@@ -22,10 +20,3 @@
 <br />
 <br />
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Mert's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mertrespectt&count_private=true&show_icons=true&hide_border=true" />
-
-</details>
