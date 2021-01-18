@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-- Discord: aka cherryst#3992
+- Discord: cherrydev#0001
 
 
 <br />
