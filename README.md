@@ -1,12 +1,12 @@
 ### Hi there, I'm Mert aka cherryst and this is my little introduction to me👋
 
-- 🔭 I’m currently working on NitrobixNetwork & valent.gg
+- 🔭 I’m currently working on anything
    
 
 
 ### Connect with me:
 
-- Discord: cherrydev#0001
+- Discord: cherrydev#0666
 
 
 <br />
