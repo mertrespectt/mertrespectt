@@ -1,6 +1,6 @@
 ### Hi there, I'm Mert aka cherryst and this is my little introduction to me👋
 
-- 🔭 I’m currently working on anything
+- 🔭 I’m currently not working on anything
    
 
 
